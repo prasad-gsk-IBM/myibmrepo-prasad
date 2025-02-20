@@ -110,7 +110,7 @@
             <mxPoint x="710" y="597" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4W5j9B6Hd9Ekf-pXZtny-69" value="Hourly progression" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.parallel_mode;pointerEvents=1" vertex="1" parent="kkMAAxsVTp9UIa4ZnZZu-7">
+        <mxCell id="4W5j9B6Hd9Ekf-pXZtny-69" value="Hourly progression" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.parallel_mode;pointerEvents=1;strokeWidth=2;" vertex="1" parent="kkMAAxsVTp9UIa4ZnZZu-7">
           <mxGeometry x="180" y="80" width="95" height="27" as="geometry" />
         </mxCell>
         <mxCell id="kkMAAxsVTp9UIa4ZnZZu-8" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=#6c8ebf;fillColor=#dae8fc;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;verticalAlign=bottom;" parent="kkMAAxsVTp9UIa4ZnZZu-6" vertex="1">
@@ -155,6 +155,9 @@
           <mxGeometry x="610" width="280" height="197" as="geometry">
             <mxRectangle width="280" height="197" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4W5j9B6Hd9Ekf-pXZtny-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;dashed=1;dashPattern=1 1;" edge="1" parent="kkMAAxsVTp9UIa4ZnZZu-1" source="4W5j9B6Hd9Ekf-pXZtny-29" target="4W5j9B6Hd9Ekf-pXZtny-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
