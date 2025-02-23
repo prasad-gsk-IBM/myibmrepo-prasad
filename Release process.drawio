@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
   <diagram name="Page-1" id="YtN1nSi710B2o5z7hdPx">
-    <mxGraphModel dx="1188" dy="758" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#EBEBEB" math="0" shadow="0">
+    <mxGraphModel dx="2139" dy="1066" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#EBEBEB" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,15 +63,15 @@
         <mxCell id="4W5j9B6Hd9Ekf-pXZtny-76" value="Allow N, N+1 version deployment in non-prod" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="kkMAAxsVTp9UIa4ZnZZu-3" vertex="1">
           <mxGeometry x="20" y="314" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SLgEmGeCkQoSsrf3d-Kz-80" value="SLA : Max 1 blocker to be revered within&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;24 hours&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;KPI: 5 Green days&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;fontStyle=1" vertex="1" parent="kkMAAxsVTp9UIa4ZnZZu-3">
-          <mxGeometry x="48" y="50" width="213" height="46" as="geometry" />
+        <mxCell id="SLgEmGeCkQoSsrf3d-Kz-80" value="SLA : Max 1 blocker to be revered within&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;24 hours&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;fontStyle=1" vertex="1" parent="kkMAAxsVTp9UIa4ZnZZu-3">
+          <mxGeometry x="38.5" y="51" width="213" height="46" as="geometry" />
         </mxCell>
         <mxCell id="kkMAAxsVTp9UIa4ZnZZu-4" value="Dev: Prod" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=#6c8ebf;connectable=0;fillColor=#dae8fc;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;verticalAlign=bottom;" parent="kkMAAxsVTp9UIa4ZnZZu-2" vertex="1">
           <mxGeometry x="610" width="310" height="343" as="geometry">
             <mxRectangle width="310" height="343" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SLgEmGeCkQoSsrf3d-Kz-16" value="SLA: 0 blockers&amp;nbsp;&lt;div&gt;SLA to revert / fix: 6 hours&lt;/div&gt;&lt;div&gt;KPI: 7 Green days&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;fontStyle=1" vertex="1" parent="kkMAAxsVTp9UIa4ZnZZu-4">
+        <mxCell id="SLgEmGeCkQoSsrf3d-Kz-16" value="SLA: 0 blockers&amp;nbsp;&lt;div&gt;SLA to revert / fix: 6 hours&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;fontStyle=1" vertex="1" parent="kkMAAxsVTp9UIa4ZnZZu-4">
           <mxGeometry x="43.5" y="50" width="213" height="48" as="geometry" />
         </mxCell>
         <mxCell id="4W5j9B6Hd9Ekf-pXZtny-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="kkMAAxsVTp9UIa4ZnZZu-2" source="4W5j9B6Hd9Ekf-pXZtny-29" target="4W5j9B6Hd9Ekf-pXZtny-32" edge="1">
