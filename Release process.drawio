@@ -63,7 +63,7 @@
         <mxCell id="4W5j9B6Hd9Ekf-pXZtny-76" value="Allow N, N+1 version deployment in non-prod" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="kkMAAxsVTp9UIa4ZnZZu-3" vertex="1">
           <mxGeometry x="20" y="314" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SLgEmGeCkQoSsrf3d-Kz-80" value="SLA : Max 1 blocker to be revered within&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;24 hours&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;fontStyle=1" vertex="1" parent="kkMAAxsVTp9UIa4ZnZZu-3">
+        <mxCell id="SLgEmGeCkQoSsrf3d-Kz-80" value="Goal : Max 1 blocker to be revered within&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;24 hours&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;fontStyle=1" vertex="1" parent="kkMAAxsVTp9UIa4ZnZZu-3">
           <mxGeometry x="38.5" y="51" width="213" height="46" as="geometry" />
         </mxCell>
         <mxCell id="kkMAAxsVTp9UIa4ZnZZu-4" value="Dev: Prod" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=#6c8ebf;connectable=0;fillColor=#dae8fc;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;verticalAlign=bottom;" parent="kkMAAxsVTp9UIa4ZnZZu-2" vertex="1">
@@ -71,7 +71,7 @@
             <mxRectangle width="310" height="343" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SLgEmGeCkQoSsrf3d-Kz-16" value="SLA: 0 blockers&amp;nbsp;&lt;div&gt;SLA to revert / fix: 6 hours&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;fontStyle=1" vertex="1" parent="kkMAAxsVTp9UIa4ZnZZu-4">
+        <mxCell id="SLgEmGeCkQoSsrf3d-Kz-16" value="Goal : 0 blockers&amp;nbsp;&lt;div&gt;SLA to revert / fix: 6 hours&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;fontStyle=1" vertex="1" parent="kkMAAxsVTp9UIa4ZnZZu-4">
           <mxGeometry x="43.5" y="50" width="213" height="48" as="geometry" />
         </mxCell>
         <mxCell id="4W5j9B6Hd9Ekf-pXZtny-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="kkMAAxsVTp9UIa4ZnZZu-2" source="4W5j9B6Hd9Ekf-pXZtny-29" target="4W5j9B6Hd9Ekf-pXZtny-32" edge="1">
