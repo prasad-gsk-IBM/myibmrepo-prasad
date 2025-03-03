@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
   <diagram name="Page-1" id="YtN1nSi710B2o5z7hdPx">
-    <mxGraphModel dx="1606" dy="872" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#EBEBEB" math="0" shadow="0">
+    <mxGraphModel dx="2139" dy="1066" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#EBEBEB" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,8 +60,8 @@
         <mxCell id="4W5j9B6Hd9Ekf-pXZtny-39" value="&amp;lt;component&amp;gt;.V&amp;lt;n,n+1&amp;gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="kkMAAxsVTp9UIa4ZnZZu-3" vertex="1">
           <mxGeometry x="135" y="171.5" width="20" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="4W5j9B6Hd9Ekf-pXZtny-76" value="Allow N, N+1 version deployment in non-prod" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="kkMAAxsVTp9UIa4ZnZZu-3" vertex="1">
-          <mxGeometry x="20" y="314" width="260" height="20" as="geometry" />
+        <mxCell id="4W5j9B6Hd9Ekf-pXZtny-76" value="Allow N, N+1 version deployment in non-prod&lt;div&gt;N - refers to current Dev version&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="kkMAAxsVTp9UIa4ZnZZu-3" vertex="1">
+          <mxGeometry x="20" y="298" width="260" height="36" as="geometry" />
         </mxCell>
         <mxCell id="SLgEmGeCkQoSsrf3d-Kz-80" value="Goal : Max 1 blocker to be fixed/reverted within&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;24H&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;fontStyle=1" parent="kkMAAxsVTp9UIa4ZnZZu-3" vertex="1">
           <mxGeometry x="38.5" y="51" width="213" height="46" as="geometry" />
