@@ -66,7 +66,7 @@
         <mxCell id="SLgEmGeCkQoSsrf3d-Kz-80" value="Goal : Max 1 blocker to be fixed/reverted within&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;24H&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;fontStyle=1" parent="kkMAAxsVTp9UIa4ZnZZu-3" vertex="1">
           <mxGeometry x="38.5" y="51" width="213" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="kkMAAxsVTp9UIa4ZnZZu-4" value="MCSP Dev: Live (prod) Namespace" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=#6c8ebf;connectable=0;fillColor=#dae8fc;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;verticalAlign=bottom;" parent="kkMAAxsVTp9UIa4ZnZZu-2" vertex="1">
+        <mxCell id="kkMAAxsVTp9UIa4ZnZZu-4" value="MCSP Dev: Live (prod) Namespace" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=#6c8ebf;connectable=0;fillColor=#dae8fc;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;verticalAlign=bottom;glass=0;" parent="kkMAAxsVTp9UIa4ZnZZu-2" vertex="1">
           <mxGeometry x="610" width="457" height="343" as="geometry">
             <mxRectangle width="457" height="343" as="alternateBounds" />
           </mxGeometry>
