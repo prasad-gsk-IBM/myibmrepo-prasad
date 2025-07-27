@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.7" pages="2">
   <diagram name="Dev Env" id="YtN1nSi710B2o5z7hdPx">
-    <mxGraphModel dx="1998" dy="1432" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#EBEBEB" math="0" shadow="0">
+    <mxGraphModel dx="2663" dy="1862" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#EBEBEB" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,7 +60,7 @@
         <mxCell id="4W5j9B6Hd9Ekf-pXZtny-39" value="&amp;lt;component&amp;gt;.V&amp;lt;n+1,n+2&amp;gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="kkMAAxsVTp9UIa4ZnZZu-3" vertex="1">
           <mxGeometry x="135" y="171.5" width="20" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="4W5j9B6Hd9Ekf-pXZtny-76" value="Allow N+1, N+2 versions deployment in non-prod&lt;div&gt;N - refers to latest Production version&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="kkMAAxsVTp9UIa4ZnZZu-3" vertex="1">
+        <mxCell id="4W5j9B6Hd9Ekf-pXZtny-76" value="Allow N+1, N+2 versions deployment in Test NS&lt;div&gt;N - refers to latest Production version&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="kkMAAxsVTp9UIa4ZnZZu-3" vertex="1">
           <mxGeometry x="15" y="298" width="265" height="36" as="geometry" />
         </mxCell>
         <mxCell id="SLgEmGeCkQoSsrf3d-Kz-80" value="Goal : Max 1 blocker to be fixed/reverted within&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;24H&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;fontStyle=1" parent="kkMAAxsVTp9UIa4ZnZZu-3" vertex="1">
@@ -270,11 +270,6 @@
         <mxCell id="7JGj_bPvharKaBwUcLOy-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-wrap-mode: wrap;&quot;&gt;Revert&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); text-wrap-mode: wrap; background-color: transparent;&quot;&gt;post testing&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); text-wrap-mode: wrap; background-color: transparent;&quot;&gt;(on-demand)&lt;/span&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.backup_recovery_point_objective;" vertex="1" parent="Rt7Iw1kRAVCkLjKkljny-23">
           <mxGeometry x="3" y="26" width="43.56" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="Rt7Iw1kRAVCkLjKkljny-30" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=#6c8ebf;fillColor=#dae8fc;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;verticalAlign=bottom;" vertex="1" parent="P4cOlg-gNXmE5wisI9mI-68">
-          <mxGeometry x="369" y="580" width="274" height="195" as="geometry">
-            <mxRectangle width="274" height="195" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Rt7Iw1kRAVCkLjKkljny-14" value="Deploy to&amp;nbsp;&lt;div&gt;Test NS using 1CP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="P4cOlg-gNXmE5wisI9mI-68">
           <mxGeometry x="59.5" y="17" width="109" height="54" as="geometry" />
         </mxCell>
@@ -448,7 +443,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7JGj_bPvharKaBwUcLOy-11" value="If no blockers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SLgEmGeCkQoSsrf3d-Kz-6">
+        <mxCell id="7JGj_bPvharKaBwUcLOy-11" value="&lt;font style=&quot;color: rgb(77, 153, 0);&quot;&gt;&lt;b&gt;If no blockers&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SLgEmGeCkQoSsrf3d-Kz-6">
           <mxGeometry x="0.2038" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -488,7 +483,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7JGj_bPvharKaBwUcLOy-12" value="If no blockers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7JGj_bPvharKaBwUcLOy-10">
+        <mxCell id="7JGj_bPvharKaBwUcLOy-12" value="&lt;font style=&quot;color: rgb(77, 153, 0);&quot;&gt;&lt;b&gt;If no blockers&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7JGj_bPvharKaBwUcLOy-10">
           <mxGeometry x="0.077" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
