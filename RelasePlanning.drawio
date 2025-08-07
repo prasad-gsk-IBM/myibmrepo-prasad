@@ -61,7 +61,7 @@
         <mxCell id="3D1PrdTJ9IL0VZI-XMwe-25" value="Prod&lt;div&gt;GA Release&lt;/div&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="698" y="522" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3D1PrdTJ9IL0VZI-XMwe-26" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.timeline2;dx1=0;dy1=1;dx2=50.5;dy2=0.316;dx3=149.591;dy3=1;dx4=250.045;dy4=0;dx5=450.955;dy5=0.78;dy6=0;" vertex="1" parent="1">
+        <mxCell id="3D1PrdTJ9IL0VZI-XMwe-26" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.timeline2;dx1=0;dy1=1;dx2=50.5;dy2=0.316;dx3=149.591;dy3=1;dx4=250.045;dy4=0;dx5=550;dy5=0.691;dy6=0;" vertex="1" parent="1">
           <mxGeometry x="137" y="409" width="550" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3D1PrdTJ9IL0VZI-XMwe-27" value="EOC" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontColor=#FF8000;" vertex="1" parent="1">
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="3D1PrdTJ9IL0VZI-XMwe-37" value="&lt;div&gt;MCSP&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="825" y="187" width="145" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="3D1PrdTJ9IL0VZI-XMwe-38" value="Rollout to all regions" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="450" y="421" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
